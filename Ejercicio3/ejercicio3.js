@@ -4,6 +4,7 @@ un prompt. En caso de que el usuario no elija un apodo, se asignara automaticame
 */
 
 'use strict'
+
 let apodo;
 
 apodo = String(prompt("Ingrese un apodo"));

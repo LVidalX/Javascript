@@ -25,6 +25,6 @@ promedio=(sum/3);
 if(promedio>=8.5 && ingresos < 600){
     alert("Aprobado");
 } else {
-    alert("Desaprobado")
+    alert("Desaprobado");
 }
 
