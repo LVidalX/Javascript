@@ -1,7 +1,8 @@
 /*Una empresa esta en busqueda de un conductor y ha establecido dos requisitos fundamentales 
 el candidato debe tener 25 años o mas, ademas de poseer una licencia profesional. 
 Tu tarea es crear un programa que almacene estos dos datos en dos variables(una de tipo number y la otra boolean)
-validarlos usando una sentencia if. Si el candidato cumple con ambos requisitos, mostrara        Nullist conshil 
+validarlos usando una sentencia if. Si el candidato cumple con ambos requisitos, mostrara el mensaje "Apto", 
+y si no, mostrará "No apto".
 */
 
 'use strict'
